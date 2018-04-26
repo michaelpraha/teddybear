@@ -1,0 +1,18 @@
+background { 
+    color: light grey
+}
+body{
+    text-align: center;
+}
+
+h1 {
+    align: center;
+    font-weight: bold;
+    color: light red;
+    font-size: 40pt;
+}
+
+.teddy{
+    align: center;
+    width: 600px;
+}
